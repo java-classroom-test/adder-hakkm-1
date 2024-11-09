@@ -4,7 +4,7 @@ public class Calculator {
 
     public int add(int i, int j) {
       // todo
-      return 0;
+      return i+j;
     }
     
 }

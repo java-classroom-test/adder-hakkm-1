@@ -16,6 +16,6 @@ public class CalculatorTest {
     public void testAdd() {
       Calculator calculator = new Calculator();
       int result = calculator.add(1, 2);
-      assertTrue(result == 3);
+      assertTrue(result == 0);
     }
 }
